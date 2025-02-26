@@ -25,16 +25,84 @@ SPDX-License-Identifier: CC-BY-SA-4.0
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Atlas Grotesk';
+    font-weight: normal;
+    src: url(/fonts/atlas/AtlasGrotesk-Regular-Cy-Gr-Web.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Atlas Grotesk';
+    font-weight: bold;
+    src: url(/fonts/atlas/AtlasGrotesk-Bold-Cy-Gr-Web.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Atlas Grotesk';
+    font-weight: 300;
+    src: url(/fonts/atlas/AtlasGrotesk-Thin-Cy-Gr-Web.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Atlas Typewriter';
+    font-weight: normal;
+    src: url(/fonts/atlas/AtlasTypewriter-Regular-Cy-Gr-Web.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Atlas Typewriter';
+    font-weight: bold;
+    src: url(/fonts/atlas/AtlasTypewriter-Bold-Cy-Gr-Web.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Atlas Typewriter';
+    font-weight: 300;
+    src: url(/fonts/atlas/AtlasTypewriter-Light-Cy-Gr-Web.woff2) format('woff2');
+    font-display: swap;
+}
+
 * {
     box-sizing: border-box;
+}
+:root {
+    --color-main: #004ac8;
+    --color-main-darker: #001a98;
+    --color-text: #111;
 }
 html, body {
     margin: 0;
     padding: 0;
-    font-family: 'OFL Sorts Mill Goudy', 'Georgia Pro', Georgia, serif;
     font-size: 24px;
+    font-family: 'Atlas Grotesk', 'Helvetica Neue', Helvetica, sans-serif;
     line-height: 1.4;
-    color: #111;
+    color: var(--color-text);
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'OFL Sorts Mill Goudy', 'Georgia Pro', Georgia, serif;
+}
+strong {
+    font-family: 'OFL Sorts Mill Goudy', 'Georgia Pro', Georgia, serif;
+    font-weight: normal;
+    font-feature-settings: "c2sc", "smcp";
+    font-size: 1.1em;
+}
+em {
+    font-family: 'OFL Sorts Mill Goudy', 'Georgia Pro', Georgia, serif;
+    font-size: 1.1em;
+}
+a {
+    color: var(--color-main);
+    text-decoration-thickness: 1px;
+    &:hover {
+        color: var(--color-main-darker);
+        text-decoration-thickness: 3px;
+    }
+}
+.container {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
 main {
     display: flex;
@@ -50,30 +118,20 @@ img.logo {
     width: 20rem;
     max-width: 100%;
 }
-strong {
-    font-weight: normal;
-    font-feature-settings: "c2sc", "smcp";
-}
-a {
-    color: #111;
-    &:hover {
-        text-decoration-style: dashed;
-    }
-}
 </style>
     </head>
     <body>
-        <main>
+        <main class="container">
             <img
                 class="logo"
                 src="/img/logo.svg"
                 alt="The Ideology Research Group logo, featuring a damaged speech bubble">
             <strong>Website coming soon — promise!</strong>
-            <em>
+            <div>
                 <a href="https://vlad.website">Vlad-Stefan Harbuz</a>
                 <br>
                 <a href="https://mirandaheath.github.io/">Miranda Heath</a>
-            </em>
+            </div>
         </main>
     </body>
 </html>
