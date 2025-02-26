@@ -1,0 +1,220 @@
+@font-face {
+    font-family: 'OFL Sorts Mill Goudy';
+    font-weight: normal;
+    src: url(/fonts/sorts-mill-goudy/SortsMillGoudy.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'OFL Sorts Mill Goudy';
+    font-weight: normal;
+    font-style: italic;
+    src: url(/fonts/sorts-mill-goudy/SortsMillGoudy-Italic.woff2) format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Atlas Grotesk';
+    font-weight: normal;
+    src: url(/fonts/atlas/AtlasGrotesk-Regular-Cy-Gr-Web.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Atlas Grotesk';
+    font-weight: bold;
+    src: url(/fonts/atlas/AtlasGrotesk-Bold-Cy-Gr-Web.woff2) format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Atlas Grotesk';
+    font-weight: 300;
+    src: url(/fonts/atlas/AtlasGrotesk-Thin-Cy-Gr-Web.woff2) format('woff2');
+    font-display: swap;
+}
+/* @font-face { */
+/*     font-family: 'Atlas Typewriter'; */
+/*     font-weight: normal; */
+/*     src: url(/fonts/atlas/AtlasTypewriter-Regular-Cy-Gr-Web.woff2) format('woff2'); */
+/*     font-display: swap; */
+/* } */
+/* @font-face { */
+/*     font-family: 'Atlas Typewriter'; */
+/*     font-weight: bold; */
+/*     src: url(/fonts/atlas/AtlasTypewriter-Bold-Cy-Gr-Web.woff2) format('woff2'); */
+/*     font-display: swap; */
+/* } */
+/* @font-face { */
+/*     font-family: 'Atlas Typewriter'; */
+/*     font-weight: 300; */
+/*     src: url(/fonts/atlas/AtlasTypewriter-Light-Cy-Gr-Web.woff2) format('woff2'); */
+/*     font-display: swap; */
+/* } */
+
+* {
+    box-sizing: border-box;
+}
+:root {
+    --color-main: #004ac8;
+    --color-main-darker: #001a98;
+    --color-bg: #f0f6ff;
+    --color-text: #111;
+    --font-sans: 'Atlas Grotesk', 'Helvetica Neue', Helvetica, sans-serif;
+    --font-serif: 'OFL Sorts Mill Goudy', 'Georgia Pro', Georgia, serif
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: var(--font-sans);
+    line-height: 1.4;
+    color: var(--color-text);
+    background: var(--color-bg);
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+h2 {
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+h1, h2, h3, h4, h5, h6, strong {
+    font-family: var(--font-serif);
+    font-weight: normal;
+    font-feature-settings: "c2sc", "smcp";
+}
+strong {
+    font-size: 1.3em;
+}
+em {
+    font-family: var(--font-serif);
+    font-size: 1.1em;
+}
+a {
+    color: var(--color-main);
+    text-decoration-thickness: 1px;
+    &:hover {
+        color: var(--color-main-darker);
+        text-decoration-thickness: 3px;
+    }
+}
+.button-set {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin: 2rem 0;
+}
+.button {
+    padding: 0.8rem 1.2rem;
+    border: 3px solid var(--color-main);
+    text-decoration: none;
+    text-align: center;
+    &:hover {
+        background: var(--color-main);
+        color: white;
+    }
+}
+.container {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    overflow: auto; /* prevent margin collapse */
+}
+.pagepad {
+    padding: 2rem 4rem;
+    @media (max-width: 800px) {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+}
+.hero {
+    height: 16rem;
+    background-image: url(https://vlad.website/static/photos/full/20170924.%20Neuch%c3%a2tel,%20Switzerland.jpg);
+    background-size: cover;
+    background-position: center center;
+    .hero-inner {
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-end;
+        height: 100%;
+        h1 {
+            margin: 0;
+            padding: 1rem;
+            font-family: var(--font-sans);
+            background-color: white;
+            font-feature-settings: normal;
+            font-size: 1.5rem;
+        }
+    }
+}
+ul {
+    padding-left: 2rem;
+    text-indent: -2rem;
+    list-style: none;
+    li {
+        margin-bottom: 1rem;
+        & > strong:first-child {
+            display: block;
+        }
+    }
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    @media (max-width: 800px) {
+        flex-direction: column;
+    }
+    img.logo {
+        width: 12rem;
+        max-width: 100%;
+    }
+    nav {
+        display: flex;
+        gap: 2rem;
+        a {
+            text-decoration: none;
+            color: var(--color-text);
+            &:hover {
+                text-decoration: underline;
+                text-decoration-thickness: 3px;
+            }
+        }
+    }
+}
+footer {
+    font-size: 0.9rem;
+    text-align: center;
+    color: #666;
+}
+.organiser {
+    margin-bottom: 2rem;
+    .pic-and-name {
+        display: flex;
+        align-items: center;
+        gap: 1.5rem;
+        margin-bottom: 1rem;
+    }
+    img {
+        border-radius: 100%;
+        width: 5rem;
+        height: 5rem;
+    }
+    h2 {
+        margin: 0;
+        font-family: var(--font-sans);
+        font-feature-settings: normal;
+        font-size: 1.2rem;
+        small {
+            display: block;
+            margin-top: 0.2rem;
+            font-size: 1rem;
+        }
+    }
+}

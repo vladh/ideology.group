@@ -1,8 +1,12 @@
-# © 2024 Vlad-Stefan Harbuz <vlad@vlad.website>
-#
-# SPDX-License-Identifier: CC-BY-SA-4.0
+.PHONY: site-dev site-prod publish
 
-.PHONY: publish
+site-dev:
+	rm -rf public
+	hugo -D
 
-publish:
-	rsync -Pvrthl --delete --exclude .git --info=progress2 . yavin:/srv/www/group.ideology
+site-prod:
+	rm -rf public
+	hugo
+
+publish: site-prod
+	rsync -Pvrthl --delete --exclude .git --info=progress2 public/ yavin:/srv/www/group.ideology

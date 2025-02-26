@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="canonical" href="{{ .Permalink }}">
+
+		{{ partial "meta.html" . }}
+
+		<link rel="stylesheet" href="/css/main.css">
+
+		<link rel="preload" href="/fonts/sorts-mill-goudy/SortsMillGoudy.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="/fonts/sorts-mill-goudy/SortsMillGoudy-Italic.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="/fonts/atlas/AtlasGrotesk-Regular-Cy-Gr-Web.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="/fonts/atlas/AtlasGrotesk-Bold-Cy-Gr-Web.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="/fonts/atlas/AtlasGrotesk-Thin-Cy-Gr-Web.woff2" as="font" type="font/woff2" crossorigin>
+
+		<link rel="icon" type="image/png" href="/images/favicon.png">
+	</head>
+	<body>
+		<div class="container pagepad">
+			<header>
+				<a href="/">
+					<img
+						class="logo"
+						src="/images/logo.svg"
+						alt="The Ideology Research Group logo, featuring a damaged speech bubble"
+					>
+				</a>
+				<nav>
+					<a href="/">Home</a>
+					<a href="/schedule">Schedule</a>
+					<a href="/reading-list">Reading List</a>
+				</nav>
+			</header>
+		</div>
+		<main>
+			{{ block "main" . }}{{ end }}
+		</main>
+		<div class="container pagepad">
+			<footer>
+				<section class="copyright">
+					<span>
+						&copy; 2024 Vlad-Stefan Harbuz, Miranda Heath
+					</span>
+				</section>
+			</footer>
+		</div>
+	</body>
+</html>

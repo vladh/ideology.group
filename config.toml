@@ -1,0 +1,14 @@
+baseURL = 'https://ideology.group/'
+languageCode = 'en-gb'
+title = "Ideology Research Group"
+copyright = '(c) 2024 Vlad-Stefan Harbuz, Miranda Heath'
+disableKinds = ['taxonomy', 'term']
+
+[params]
+	defaultSummary = "A philosophy research group aimed at discussing new work and existing literature in ideology, as well as related concepts such as social norms and social schemas."
+	[params.author]
+		name = 'Vlad-Stefan Harbuz, Miranda Heath'
+
+[markup]
+	[markup.goldmark.renderer]
+		unsafe = true
