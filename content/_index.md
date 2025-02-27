@@ -122,6 +122,6 @@ We aim to work towards answering the following questions:
     </div>
     <p>
         Miranda's work seeks to disentangle the influence of individualism and neoliberal ideology from altruism and
-        moral expansiveness research. Miranda also like cats, and thinks birds are okay.
+        moral expansiveness research. She also likes cats and birds.
     </p>
 </div>
