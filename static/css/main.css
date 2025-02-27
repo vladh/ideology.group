@@ -158,6 +158,10 @@ pre {
     }
 }
 ul {
+    padding-left: 0;
+    list-style-position: inside;
+}
+.index-page ul {
     padding-left: 2rem;
     text-indent: -2rem;
     list-style: none;
