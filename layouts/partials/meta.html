@@ -29,6 +29,6 @@
 	{{ end }}
 {{ end }}
 
-{{- with .Params.image | default .Params.meta_image | default "/images/og.png" }}
+{{- with .Params.image | default .Params.meta_image | default (printf "%s%s" .Site.BaseURL "images/opengraph.png") }}
 	<meta property="og:image" content="{{ . }}">
 {{ end }}

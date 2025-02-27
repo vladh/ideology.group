@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1200"
+   height="630"
+   viewBox="0 0 1200 630"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="opengraph.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.54416668"
+     inkscape:cx="1196.3246"
+     inkscape:cy="816.84532"
+     inkscape:window-width="3840"
+     inkscape:window-height="2127"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs6">
+    <clipPath
+       id="clip0_367_1596">
+      <rect
+         width="769.677"
+         height="321"
+         fill="#ffffff"
+         id="rect6"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <rect
+     style="fill:#ffffff;stroke-width:20"
+     id="rect1"
+     width="1200"
+     height="630"
+     x="0"
+     y="0" />
+  <g
+     id="g1"
+     transform="matrix(0.57181474,0,0,0.57181474,412.93404,330.75907)"
+     style="stroke-width:1.74882">
+    <text
+       xml:space="preserve"
+       style="font-size:301.966px;line-height:0.75;font-family:sans-serif;fill:#004ac8;fill-opacity:1;stroke-width:1.74881"
+       x="28.865126"
+       y="-45.063194"
+       id="text1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:301.966px;line-height:0.75;font-family:'OFL Sorts Mill Goudy';-inkscape-font-specification:'OFL Sorts Mill Goudy';fill:#004ac8;fill-opacity:1;stroke-width:1.74881"
+         x="28.865126"
+         y="-45.063194"
+         id="tspan2">Ideology</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:179.906px;line-height:0.75;font-family:'OFL Sorts Mill Goudy';-inkscape-font-specification:'OFL Sorts Mill Goudy Medium Italic';fill:#004ac8;fill-opacity:1;stroke-width:1.74881"
+         x="28.865126"
+         y="190.61891"
+         id="tspan8">Research Group</tspan></text>
+    <path
+       id="path5"
+       style="fill:#004ac8;fill-opacity:1;stroke:none;stroke-width:34.9764;stroke-dasharray:none"
+       d="m -160.32925,-167.25754 -295.29346,295.2935 a 209.33827,209.33827 0 0 0 147.21059,61.2559 H -99.073354 V -20.046916 A 209.33827,209.33827 0 0 0 -160.32925,-167.25754 Z" />
+    <path
+       id="path8"
+       style="fill:#004ac8;fill-opacity:1;stroke:none;stroke-width:34.9764;stroke-dasharray:none"
+       d="M -274.66132,-281 A 209.33827,209.33827 0 0 0 -484,-71.662942 209.33827,209.33827 0 0 0 -421.87179,76.419932 L -126.57841,-218.87353 A 209.33827,209.33827 0 0 0 -274.66132,-281 Z" />
+  </g>
+</svg>
