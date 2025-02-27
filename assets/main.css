@@ -109,8 +109,10 @@ pre {
 }
 .button-set {
     display: flex;
+    flex: 1 0;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 1rem;
     margin: 2rem 0;
 }
