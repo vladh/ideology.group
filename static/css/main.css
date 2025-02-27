@@ -196,6 +196,7 @@ header {
     }
 }
 footer {
+    padding: 2rem 0;
     font-size: 0.9rem;
     text-align: center;
     color: #666;
