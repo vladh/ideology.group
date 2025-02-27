@@ -108,8 +108,12 @@ We aim to work towards answering the following questions:
         </h2>
     </div>
     <p>
-        Vlad works on philosophy and software that contribute to the public good. His main philosophical interest is
-        investigating the epistemology of why we put up with exploitative work relationships. He likes cats and birds.
+        Vlad works on philosophy and
+        <a href="https://vlad.website/the-philosophy-of-the-open-source-pledge/" target="_blank">software</a>
+        that contributes to the public good. His main philosophical interest is
+        investigating the epistemology of why we put up with exploitative work relationships.
+        He likes cats and birds
+        (particularly <a href="https://www.rspb.org.uk/birds-and-wildlife/robin" target="_blank">robins</a>).
     </p>
 </div>
 <div class="organiser">
@@ -122,6 +126,8 @@ We aim to work towards answering the following questions:
     </div>
     <p>
         Miranda's work seeks to disentangle the influence of individualism and neoliberal ideology from altruism and
-        moral expansiveness research. She also likes cats and birds.
+        moral expansiveness research.
+        She also likes cats and birds
+        (particularly <a href="https://www.rspb.org.uk/birds-and-wildlife/spoonbill" target="_blank">spoonbills</a>).
     </p>
 </div>
