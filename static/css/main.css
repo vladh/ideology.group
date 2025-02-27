@@ -126,15 +126,14 @@ a {
     overflow: auto; /* prevent margin collapse */
 }
 .pagepad {
-    padding: 2rem 4rem;
+    padding: 4rem;
     @media (max-width: 800px) {
-        padding-left: 1.5rem;
-        padding-right: 1.5rem;
+        padding: 3rem 1.5rem;
     }
 }
 .hero {
-    height: 16rem;
-    background-image: url(https://vlad.website/static/photos/full/20170924.%20Neuch%c3%a2tel,%20Switzerland.jpg);
+    height: 28rem;
+    background-image: url(/images/books.webp);
     background-size: cover;
     background-position: center center;
     .hero-inner {
@@ -168,12 +167,14 @@ header {
     align-items: center;
     justify-content: space-between;
     gap: 1rem;
+    padding: 2rem 4rem;
     @media (max-width: 800px) {
         flex-direction: column;
     }
     img.logo {
         width: 12rem;
         max-width: 100%;
+        padding-top: 0.1rem; /* compensate for “p” descender” */
     }
     nav {
         display: flex;
