@@ -179,6 +179,7 @@ header {
     gap: 1rem;
     padding: 2rem 4rem;
     @media (max-width: 800px) {
+        padding: 2rem 1.5rem;
         flex-direction: column;
     }
     img.logo {
