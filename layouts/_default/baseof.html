@@ -7,7 +7,12 @@
 
 		{{ partial "meta.html" . }}
 
-		<link rel="stylesheet" href="/css/main.css">
+		{{ if hugo.IsProduction }}
+			<style>{{ with resources.Get "main.css" | minify }}{{ .Content | safeCSS }}{{ .Publish }}{{ end }}</style>
+		{{ else }}
+			{{ $style := resources.Get "main.css" }}
+			<link rel="stylesheet" href="{{ $style.Permalink }}">
+		{{ end }}
 
 		<link rel="preload" href="/fonts/sorts-mill-goudy/SortsMillGoudy.woff2" as="font" type="font/woff2" crossorigin>
 		<link rel="preload" href="/fonts/sorts-mill-goudy/SortsMillGoudy-Italic.woff2" as="font" type="font/woff2" crossorigin>
