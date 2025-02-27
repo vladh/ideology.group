@@ -1,5 +1,5 @@
 ---
-title: Vlad's Website
+title: Ideology Research Group
 date: 2017-10-04T00:00:00+00:00
 type: meta
 draft: false
