@@ -11,14 +11,14 @@ work or discuss literature.
 
 ## Join our group
 
-Want to be added to the mailing list to keep up with events? You do not have to submit or contribute anything to
-participate, you can just show up, or just read the emails.
+Want to be added to the mailing list to keep up with events? We'd love to have you! You do not have to submit or
+contribute anything to participate, you can just show up, or just read the emails.
 
 <div class="button-set">
     <a
         class="button"
         target="_blank"
-        href="mailto:vlad@vlad.website?subject=Ideology Research Group Subscription&body=Please subscribe me to the Ideology Research Group mailing list. Thanks!"
+        href="mailto:sympa@mlist.is.ed.ac.uk?body=SUBSCRIBE ideology%0D%0AQUIT"
     >
         Subscribe to the mailing list
     </a>
@@ -31,8 +31,23 @@ participate, you can just show up, or just read the emails.
     </a>
 </div>
 
-Struggling with the above buttons? Just send an email to vlad@vlad.website asking to be subscribed, or with your
-question.
+<details>
+    <summary>Ran into an issue?</summary>
+    <ul>
+        <li>
+            <strong>To subscribe to the mailing list</strong>
+            Send an email to
+            <code>sympa@mlist.is.ed.ac.uk</code>
+            with this message:
+            <pre>SUBSCRIBE ideology
+QUIT</pre>
+        </li>
+        <li>
+            <strong>To contact the organisers</strong>
+            Send an email to <code>vlad@vlad.website</code> and <code>Miranda.Heath@ed.ac.uk</code>
+        </li>
+    </ul>
+</details>
 
 ## Our research goals
 

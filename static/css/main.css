@@ -101,6 +101,12 @@ a {
         text-decoration-thickness: 3px;
     }
 }
+pre {
+    margin: 0.5rem 0;
+    padding: 1rem;
+    text-indent: 0;
+    background: var(--color-bg);
+}
 .button-set {
     display: flex;
     align-items: center;
