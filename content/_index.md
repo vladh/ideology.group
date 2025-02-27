@@ -1,7 +1,6 @@
 ---
 title: Ideology Research Group
-date: 2017-10-04T00:00:00+00:00
-type: meta
+date: 2025-01-01T00:00:00+00:00
 draft: false
 ---
 
