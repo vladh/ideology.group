@@ -95,6 +95,14 @@ must also change culture, ie change ideologies. She suggests doing this through 
 politics”. How can an ideology's self-reproduction be halted or reversed? Also, how does ideology interact with laws?
 Cristina Bicchieri says that “when laws exist but are in conflict with social norms, social norms win”.
 
+<figure class="card-figure">
+    <div class="card-figure-inner card-figure-inner--padded">
+        <p>“The ultimate hidden truth of the world is that it is something that we make, and could just as easily make
+        differently”</p>
+        <figcaption>— David Graeber</figcaption>
+    </div>
+</figure>
+
 What role does language play in transmission?
 
 :   For example, normative generics are claims that promote _essentialist-normative-enforcing attitudes_. “Boys don't
