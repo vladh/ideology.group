@@ -40,5 +40,5 @@ Exact dates and locations will be announced as each event draws near.
     </div>
 </div>
 
-If you work on ideology, and would interested in speaking,
+If you work on ideology, and would be interested in speaking,
 <a href="mailto:vlad@vlad.website,Miranda.Heath@ed.ac.uk">contact us</a>!
