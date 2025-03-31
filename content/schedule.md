@@ -4,9 +4,41 @@ date: 2025-01-01T00:00:00+00:00
 draft: false
 ---
 
-The schedule is coming soon. Come back in a bit!
+Exact dates and locations will be announced as each event draws near.
 
-We're still looking for speakers for upcoming events.
+<div class="event">
+    <time>May 2025<br>University of Edinburgh (in person)</time>
+    <div class="event__body">
+        <div class="event__image event__image--double">
+            <img width="100" height="100" src="/images/vlad.webp" alt="A portrait of Vlad">
+            <img width="100" height="100" src="/images/miranda.webp" alt="A portrait of Miranda">
+        </div>
+        <div class="event__main">
+            <h2>Intro to the Ideology Research Group</h2>
+            <em>
+                <a href="https://vlad.website">Vlad-Stefan Harbuz</a> (Edinburgh)<br>
+                <a href="https://mirandaheath.github.io">Miranda Heath</a> (Edinburgh)
+            </em>
+        </div>
+    </div>
+</div>
+
+<div class="event">
+    <time>September/October 2025<br>University of Edinburgh (in person)</time>
+    <div class="event__body">
+        <div class="event__image">
+            <img width="100" height="100" src="/images/filipa.webp" alt="A portrait of Filipa Melo Lopes">
+        </div>
+        <div class="event__main">
+            <h2>Right-Wing Women's Bad Faith and Ours</h2>
+            <em>
+                <a href="http://www.filipamelolopes.com/">Filipa Melo Lopes</a> (Edinburgh)<br>
+                Co-author:
+                <a href="https://profiles.cardiff.ac.uk/staff/edwardsm29">Mary Edwards</a> (Cardiff)
+            </em>
+        </div>
+    </div>
+</div>
 
 If you work on ideology, and would interested in speaking,
 <a href="mailto:vlad@vlad.website,Miranda.Heath@ed.ac.uk">contact us</a>!

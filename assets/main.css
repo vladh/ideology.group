@@ -72,6 +72,7 @@ html, body {
 h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
     margin-bottom: 1rem;
+    line-height: 1.2;
 }
 h2 {
     font-size: 2rem;
@@ -278,5 +279,43 @@ footer {
             margin-top: 0.2rem;
             font-size: 1rem;
         }
+    }
+}
+.event {
+    margin: 2rem 0;
+    time {
+	display: inline-block;
+	margin-bottom: 0.5rem;
+	padding: 0.3rem 0.5rem;
+	background-color: var(--color-main);
+	color: white;
+    }
+    h2 {
+	margin: 0;
+	margin-bottom: 0.3rem;
+        font-family: var(--font-sans);
+        font-feature-settings: normal;
+	font-size: 1.5rem;
+    }
+    .event__body {
+	display: flex;
+	gap: 1rem;
+	@media (max-width: 600px) {
+	    flex-direction: column-reverse;
+	    gap: 0.5rem;
+	}
+	.event__image {
+	    display: flex;
+	    flex-basis: 100px;
+	    img {
+		display: block;
+		object-fit: cover;
+	    }
+	    &.event__image--double {
+		img {
+		    width: 50px;
+		}
+	    }
+	}
     }
 }

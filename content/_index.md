@@ -8,6 +8,12 @@ The Ideology Research Group, based at the University of Edinburgh but welcoming 
 discussing ideology broadly construed, with informal meetings, both in-person and online, where members present
 work or discuss literature.
 
+<div class="button-set">
+    <a class="button" href="/schedule">
+        Check out our upcoming events
+    </a>
+</div>
+
 ## Join our group
 
 Want to be added to the mailing list to keep up with events? We'd love to have you! You do not have to submit or
