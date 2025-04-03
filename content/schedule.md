@@ -7,35 +7,35 @@ draft: false
 Exact dates and locations will be announced as each event draws near.
 
 <div class="event">
-    <time>May 2025<br>University of Edinburgh (in person)</time>
+    <time>September 2025<em>(University of Edinburgh, in person)</em></time>
     <div class="event__body">
+        <div class="event__main">
+            <h2>Intro to the Ideology Research Group</h2>
+            <div class="event__speakers">
+                <a href="https://vlad.website">Vlad-Stefan Harbuz</a> (Edinburgh)<br>
+                <a href="https://mirandaheath.github.io">Miranda Heath</a> (Edinburgh)
+            </div>
+        </div>
         <div class="event__image event__image--double">
             <img width="100" height="100" src="/images/vlad.webp" alt="A portrait of Vlad">
             <img width="100" height="100" src="/images/miranda.webp" alt="A portrait of Miranda">
-        </div>
-        <div class="event__main">
-            <h2>Intro to the Ideology Research Group</h2>
-            <em>
-                <a href="https://vlad.website">Vlad-Stefan Harbuz</a> (Edinburgh)<br>
-                <a href="https://mirandaheath.github.io">Miranda Heath</a> (Edinburgh)
-            </em>
         </div>
     </div>
 </div>
 
 <div class="event">
-    <time>September/October 2025<br>University of Edinburgh (in person)</time>
+    <time>October 2025<em>(University of Edinburgh, in person)</em></time>
     <div class="event__body">
-        <div class="event__image">
-            <img width="100" height="100" src="/images/filipa.webp" alt="A portrait of Filipa Melo Lopes">
-        </div>
         <div class="event__main">
             <h2>Right-Wing Women's Bad Faith and Ours</h2>
-            <em>
+            <div class="event__speakers">
                 <a href="http://www.filipamelolopes.com/">Filipa Melo Lopes</a> (Edinburgh)<br>
                 Co-author:
                 <a href="https://profiles.cardiff.ac.uk/staff/edwardsm29">Mary Edwards</a> (Cardiff)
-            </em>
+            </div>
+        </div>
+        <div class="event__image">
+            <img width="100" height="100" src="/images/filipa.webp" alt="A portrait of Filipa Melo Lopes">
         </div>
     </div>
 </div>
