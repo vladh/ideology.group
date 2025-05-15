@@ -16,26 +16,43 @@ a&nbsp;★&nbsp;are considered particularly helpful by the organisers.
 * ★ MacIntyre, Alasdair. _“Social Structures and Their Threats to Moral Agency”_.
 * ★ Marcuse, Herbert. _“One-Dimensional Man”_.
 * ★ Mills, Charles W. _“Ideal Theory as Ideology”_.
+* Aytac et al. _“Ideology Critique without Morality: A Radical Realist Approach”_.
 * Balkin, Jack. _“Cultural Software; A Theory of Ideology”_.
+* Barrett, Jacob. _“Ideology Critique and Game Theory”_.
+* Berger, Peter L; Luckmann, Thomas. _“The Social Construction of Reality: A Treatise in the Sociology of Knowledge”_.
 * Bourdieu, Pierre. _“Language and Symbolic Power”_.
 * Bremner et al. _“Ideology as Relativized A Priori: On the Mind's Relation to the Social World”_.
 * Cavell, Stanley. _“Must we mean what we say?”_. See “whirl of organism”.
+* Chun, Christian W. _“The Discourses of Capitalism: Everyday Economists and the Production of Common Sense”_.
 * Crehan, Kate. _“Gramsci, Culture and Anthropology”_.
 * De La Boétie, Étienne. _“Discourse on Voluntary Servitude”_.
+* Dotson, Kristie. _“Distinguishing Knowledge Possession and Knowledge Attribution: The Difference Metaphilosophy Makes”_.
 * Eagleton, Terry. _“Ideology: An Introduction”_.
 * Eagleton, Terry. _“Ideology”_.
 * Filippini, Michele. _“Using Gramsci”_.
-* Freeden, Michael. _“Ideology: A Very Short Introduction”_.
+* Finlayson, Lorna. _“On Mountains and Molehills: Problems, Non-problems, and the Ideology of Ideology”_.
 * Freeden et al. _“The Oxford Handbook of Political Ideologies”_.
+* Freeden, Michael. _“Ideology: A Very Short Introduction”_.
+* Fromm, Erich. _“Marx's Contribution to the Knowledge of Man”_.
 * Geuss, Raymond. _“The Idea of a Critical Theory”_.
 * Gilabert, Pablo. _“Real interests, well-being, and ideology critique”_.
 * Gramsci, Antonio. _“Selections from the Prison Notebooks”_. But find a way to filter through this. Related: manufactured consent.
+* Habermas, Jürgen. _“The Theory of Communicative Action, Volume 2: Lifeworld and System: a Critique of Functionalist Reason”_.
 * Hacking, Ian. _“The Social Construction of What?”_.
+* Hall, Stuart. _“Cultural Studies 1983: A Theoretical History”_.
+* Haslanger, Sally. _“Cognition as a Social Skill”_.
+* Haslanger, Sally. _“Failures of Methodological Individualism; The Materiality of Social Systems”_.
 * Haslanger, Sally. _“How to Change a Social Structure”_.
+* Haslanger, Sally. _“Ideology in Practice; What Does Ideology Do? (The Aquinas Lecture)”_.
 * Haslanger, Sally. _“Resisting Reality: Social Construction and Social Critique”_.
+* Haslanger, Sally. _“What is a Social Practice?”_.
 * Hawkes, David. _“Ideology”_.
+* Heath, Joseph. _“Ideology, Irrationality and Collectively Self-defeating Behavior”_.
+* Hennessy, Rosemary. _“Women’s Lives / Feminist Knowledge: Feminist Standpoint as Ideology Critique”_.
 * Hirji, Sukaina. _“Oppressive Double Binds”_.
+* Honneth, Axel. _“Reification: A New Look at an Old Idea”_.
 * Ives, Peter. _“Language and Hegemony in Gramsci”_.
+* Jay, Martin. _“Marxism and Totality”_.
 * Kennedy, Emmet. _“‘Ideology’ from Destutt de Tracy to Marx”_.
 * Kripke, Saul. _“Wittgenstein on Rules and Private Language”_.
 * Luckmann et al. _“The Social Construction of Reality: A Treatise in the Sociology of Knowledge”_.
@@ -45,19 +62,26 @@ a&nbsp;★&nbsp;are considered particularly helpful by the organisers.
 * McDowell, John. _“Wittgenstein on Following a Rule”_.
 * Nash, Roy. _“Bourdieu on Education and Social and Cultural Reproduction”_.
 * Ostrowski, Marius S. _“Ideology”_.
+* Roberts, William Clare. _“Ideology”_. In the SEP.
 * Roucek, Joseph S. _“A History of the Concept of Ideology”_.
+* Sankaran, Kirun. _“What’s new in the new ideology critique”_.
 * Scott, James. _“Seeing Like a State”_.
 * Shashidhar, R. _“Culture and Society: An Introduction to Raymond Williams”_
+* Shelby, Tommie. _“Ideology, Racism, and Critical Social Theory”_.
 * Stahl, Titus. _“False consciousness, hermeneutical injustice, and ideological power”_.
 * Stalnaker, Robert. _“Context and Content”_.
 * Stanley et al. _“The Politics of Language”_.
+* Stebbing, Susan. _“Thinking to Some Purpose”_.
 * Therborn, Göran. _“The Ideology of Power and the Power of Ideology”_.
+* Thompson, EP. _“Socialist Humanism: An Epistle to the Philistines”_.
 * Verschueren, Jef. _“Ideology in Language Use”_.
 * Warren, Jared. _“Killing Kripkenstein's Monster”_.
 * Williams, Raymond. _“Culture and Society”_.
 * Williams, Raymond. _“Keywords: A Vocabulary of Culture and Society”_.
 * Wittgenstein, Ludwig. _“Philosophical Investigations”_. See: forms of life; meaning as use.
 * Worsnip, Alex. _“Applied Epistemology; What is it? Why do it?”_.
+* Žižek, Slavoj. _“Mapping Ideology”_.
+* Žižek, Slavoj. _“The Sublime Object of Ideology”_.
 
 ## Common Ground and Generics
 
