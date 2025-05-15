@@ -127,10 +127,11 @@ ideology?
 
 …and other questions!
 
-:   Can ideology be reduced to individual attitudes, or is it something above and beyond individuals? Does ideology
-cause alienation? When are we complicit in upholding ideology? How much power do we have to shape ideology and how much
-power does it have to shape us and our social environment? Are “ideology” and “culture” the same thing? Does ideology
-need to be internally coherent?
+:   Do people support and help reproduce unjust social systems mainly because of ideology, or mainly because of material
+conditions? Can ideology be reduced to individual attitudes, or is it something above and beyond individuals? Does
+ideology cause alienation? When are we complicit in upholding ideology? How much power do we have to shape ideology and
+how much power does it have to shape us and our social environment? Are “ideology” and “culture” the same thing? Does
+ideology need to be internally coherent?
 
 ## Organisers
 
