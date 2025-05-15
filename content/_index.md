@@ -84,9 +84,10 @@ positive feedback loop.
 
 When is ideology harmful?
 
-:   An ideology could be harmful because it has negative social effects, such as inequality and discrimination.
+:   An ideology could be harmful on moral grounds, because it has negative social effects such as inequality and
+    discrimination. It could be harmful on rational grounds, if it causes people to act against their own interests.
 
-    An ideology could also be harmful for epistemic reasons. For example, wage labour is ideological — but it’s also
+    But some ideologies are harmful for epistemic reasons. For example, wage labour is ideological — but it’s also
     historically contingent. Social organisation based around wage labour becomes reified, rigidified and naturalised
     when we start to believe that production could not be organised in any other way. This is arguably harmful because
     it is epistemically limiting. In the words of David Graeber, “the ultimate hidden truth of the world is that it is
