@@ -3,6 +3,10 @@ title: Ideology Research Group
 date: 2025-01-01T00:00:00+00:00
 draft: false
 ---
+<!--
+© 2025 Vlad-Stefan Harbuz
+SPDX-License-Identifier: Apache-2.0
+-->
 
 The Ideology Research Group, based at the University of Edinburgh but welcoming international members, aims at
 discussing ideology broadly construed, with informal meetings, both in-person and online, where members present

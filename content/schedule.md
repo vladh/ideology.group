@@ -3,6 +3,10 @@ title: "Schedule"
 date: 2025-01-01T00:00:00+00:00
 draft: false
 ---
+<!--
+© 2025 Vlad-Stefan Harbuz
+SPDX-License-Identifier: Apache-2.0
+-->
 
 Exact dates and locations will be announced as each event draws near.
 

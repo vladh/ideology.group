@@ -3,6 +3,10 @@ title: "Reading List"
 date: 2025-01-01T00:00:00+00:00
 draft: false
 ---
+<!--
+© 2025 Vlad-Stefan Harbuz
+SPDX-License-Identifier: Apache-2.0
+-->
 
 This is a list of books and papers that engage with ideology through many different lenses. Items marked with
 a&nbsp;★&nbsp;are considered particularly helpful by the organisers.
