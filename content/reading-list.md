@@ -171,4 +171,12 @@ Cristina Bicchieri on social norms vs laws (_“The Grammar of Society”_):
 
 > When laws exist but are in conflict with social norms, social norms win.
 
+Terry Eagleton on how adherents to an ideology can be blinded to its contingent nature (_“Ideology: An Introduction”_):
+
+> ‘Ideology’, announces Louis Althusser, ‘has no outside’. (…) An ideology is reluctant to believe that it was ever
+> born, since to do so is to acknowledge that it can die. (…) It is equally embarrassed by the presence of sibling
+> ideologies, since these mark out its own finite frontiers and so delimit its sway. To view an ideology from the
+> outside is to recognize its limits; but from the inside these boundaries vanish into infinity, leaving the ideology
+> curved back upon itself like cosmic space.
+
 [langton]: https://www.youtube.com/watch?v=TfcnXU1bWZk
