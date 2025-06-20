@@ -17,7 +17,7 @@ Exact dates and locations will be announced as each event draws near.
             <h2>Intro to the Ideology Research Group</h2>
             <div class="event__speakers">
                 <a href="https://vlad.website">Vlad-Stefan Harbuz</a> (Edinburgh)<br>
-                <a href="https://mirandaheath.github.io">Miranda Heath</a> (Edinburgh)
+                <a href="https://mirandaheath.website">Miranda Heath</a> (Edinburgh)
             </div>
         </div>
         <div class="event__image event__image--double">

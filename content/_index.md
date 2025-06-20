@@ -161,7 +161,7 @@ ideology need to be internally coherent?
     <div class="pic-and-name">
         <img width="100" height="100" src="/images/miranda.webp" alt="A portrait of Miranda">
         <h2>
-            <a href="https://mirandaheath.github.io" target="_blank">Miranda Heath</a>
+            <a href="https://mirandaheath.website" target="_blank">Miranda Heath</a>
             <small>PhD researcher, Psychology, University of Edinburgh</small>
         </h2>
     </div>
