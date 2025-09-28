@@ -142,7 +142,7 @@ ideology need to be internally coherent?
 
 <div class="organiser">
     <div class="pic-and-name">
-        <img width="100" height="100" src="/images/vlad.webp" alt="A portrait of Vlad">
+        <img width="100" height="100" src="/images/vlad-caves.webp" alt="A portrait of Vlad">
         <h2>
             <a href="https://vlad.website" target="_blank">Vlad-Stefan Harbuz</a>
             <small>PhD researcher, Philosophy, University of Edinburgh</small>
@@ -159,7 +159,7 @@ ideology need to be internally coherent?
 </div>
 <div class="organiser">
     <div class="pic-and-name">
-        <img width="100" height="100" src="/images/miranda.webp" alt="A portrait of Miranda">
+        <img width="100" height="100" src="/images/miranda-flowers.webp" alt="A portrait of Miranda">
         <h2>
             <a href="https://mirandaheath.website" target="_blank">Miranda Heath</a>
             <small>PhD researcher, Psychology, University of Edinburgh</small>
