@@ -300,15 +300,19 @@ footer {
 		font-feature-settings: normal;
 		color: var(--color-main);
 	}
-	time {
-		display: block;
-		margin-bottom: 0.5rem;
+	.prelude {
+		display: inline-block;
+		font-feature-settings: "c2sc", "smcp";
+		min-width: 6rem;
 		color: var(--color-main);
-		em {
-			margin-left: 0.5rem;
-			@media (max-width: 600px) {
+	}
+	.event__coords {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		@media (max-width: 900px) {
+			.prelude {
 				display: block;
-				margin-left: 0;
 			}
 		}
 	}
@@ -335,8 +339,5 @@ footer {
 				border-radius: 100%;
 			}
 		}
-	}
-	.event__desc {
-		margin-top: 1rem;
 	}
 }

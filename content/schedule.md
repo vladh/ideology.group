@@ -17,10 +17,19 @@ Exact dates and locations will be announced as each event draws near.
         </div>
         <div class="event__main">
             <h2>Intro to the Ideology Research Group</h2>
-            <time>October 2025 &middot; University of Edinburgh</time>
-            <div class="event__speakers">
-                <a href="https://vlad.website">Vlad-Stefan Harbuz</a> and
-                <a href="https://mirandaheath.website">Miranda Heath</a>
+            <div class="event__coords">
+                <div>
+                    <span class="prelude">Time</span> TBD, October 2025
+                </div>
+                <div>
+                    <span class="prelude">Place</span> DSB 7.01, University of Edinburgh
+                </div>
+                <div>
+                    <span class="prelude">Speakers</span>
+                    <a href="https://vlad.website">Vlad-Stefan Harbuz</a>
+                    and
+                    <a href="https://mirandaheath.website">Miranda Heath</a>
+                </div>
             </div>
         </div>
     </div>
@@ -33,10 +42,18 @@ Exact dates and locations will be announced as each event draws near.
         </div>
         <div class="event__main">
             <h2>Right-Wing Women's Bad Faith and Ours</h2>
-            <time>November 2025 &middot; University of Edinburgh</time>
-            <div class="event__speakers">
-                <a href="http://www.filipamelolopes.com/">Filipa Melo Lopes</a>
-                (co-authored with <a href="https://profiles.cardiff.ac.uk/staff/edwardsm29">Mary Edwards</a>)
+            <div class="event__coords">
+                <div>
+                    <span class="prelude">Time</span> 6 November 2025
+                </div>
+                <div>
+                    <span class="prelude">Place</span> DSB 7.01, University of Edinburgh
+                </div>
+                <div>
+                    <span class="prelude">Speaker</span>
+                    <a href="http://www.filipamelolopes.com/">Filipa Melo Lopes</a>
+                    (co-authored with <a href="https://profiles.cardiff.ac.uk/staff/edwardsm29">Mary Edwards</a>)
+                </div>
             </div>
         </div>
     </div>
