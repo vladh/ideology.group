@@ -340,4 +340,14 @@ footer {
 			}
 		}
 	}
+	.event__desc {
+		margin-top: 1rem;
+		&:before {
+			content: '';
+			display: block;
+			width: 10rem;
+			margin-bottom: 1rem;
+			border-top: 1px solid var(--color-main);
+		}
+	}
 }

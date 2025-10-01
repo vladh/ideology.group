@@ -57,6 +57,23 @@ Exact dates and locations will be announced as each event draws near.
             </div>
         </div>
     </div>
+    <div class="event__desc">
+        <p>
+            Andrea Dworkin’s <em>Right-Wing Women</em> has historically received little scholarly attention. Long out of
+            print, its 2025 reissue has introduced it to a post-#MeToo generation among whom Dworkin is increasingly
+            respected as a feminist thinker. But even sympathetic readers have been reluctant to accept her conclusion
+            that right-wing women are truth-telling realists about male supremacy, and left-wing women are in denial
+            about it. In this paper, we want to overcome this resistance by offering an existentialist reading of
+            <em>Right-Wing Women</em> in terms of the notion of ‘bad faith’. First, we reconstruct a more nuanced story
+            where right-wing women emerge as both lucid realists and “moral idiots” in virtue of their
+            <em>fatalism</em>. Second, we argue that Dworkin charges women on the left with an <em>exceptionalism</em>
+            which ‘protects’ them from having to acknowledge the reality of the sex-class system. Drawing on
+            contemporary examples, we show that Dworkin’s framework continues to illuminate the way women are valued in
+            our social consciousness, as well as the failures of left-aligned feminism. Finally, we examine Dworkin’s
+            own suggestions for how to avoid the pitfalls of bad faith on the Right and the Left, and her vision of the
+            role of right-wing women in feminist politics.
+        </p>
+    </div>
 </div>
 
 If you work on topics related to ideology, and would be interested in speaking,
