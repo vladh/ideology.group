@@ -17,7 +17,7 @@ SPDX-License-Identifier: Apache-2.0
             <h2>Right-Wing Women's Bad Faith and Ours</h2>
             <div class="event__coords">
                 <div>
-                    <span class="prelude">Time</span> 6 November 2025
+                    <span class="prelude">Time</span> 6 November 2025, 15:00
                 </div>
                 <div>
                     <span class="prelude">Place</span> DSB 7.01, University of Edinburgh
