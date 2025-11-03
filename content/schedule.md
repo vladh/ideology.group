@@ -8,33 +8,6 @@ draft: false
 SPDX-License-Identifier: Apache-2.0
 -->
 
-Exact dates and locations will be announced as each event draws near.
-
-<div class="event">
-    <div class="event__body">
-        <div class="event__image">
-            <img width="100" height="100" src="/images/vlaranda.webp" alt="A portrait of Vlad and Miranda">
-        </div>
-        <div class="event__main">
-            <h2>Intro to the Ideology Research Group</h2>
-            <div class="event__coords">
-                <div>
-                    <span class="prelude">Time</span> TBD, October 2025
-                </div>
-                <div>
-                    <span class="prelude">Place</span> DSB 7.01, University of Edinburgh
-                </div>
-                <div>
-                    <span class="prelude">Speakers</span>
-                    <a href="https://vlad.website">Vlad-Stefan Harbuz</a>
-                    and
-                    <a href="https://mirandaheath.website">Miranda Heath</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 <div class="event">
     <div class="event__body">
         <div class="event__image">
@@ -73,6 +46,31 @@ Exact dates and locations will be announced as each event draws near.
             own suggestions for how to avoid the pitfalls of bad faith on the Right and the Left, and her vision of the
             role of right-wing women in feminist politics.
         </p>
+    </div>
+</div>
+
+<div class="event">
+    <div class="event__body">
+        <div class="event__image">
+            <img width="100" height="100" src="/images/vlaranda.webp" alt="A portrait of Vlad and Miranda">
+        </div>
+        <div class="event__main">
+            <h2>Intro to the Ideology Research Group</h2>
+            <div class="event__coords">
+                <div>
+                    <span class="prelude">Time</span> TBD
+                </div>
+                <div>
+                    <span class="prelude">Place</span> DSB 7.01, University of Edinburgh
+                </div>
+                <div>
+                    <span class="prelude">Speakers</span>
+                    <a href="https://vlad.website">Vlad-Stefan Harbuz</a>
+                    and
+                    <a href="https://mirandaheath.website">Miranda Heath</a>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
