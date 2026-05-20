@@ -8,6 +8,53 @@ draft: false
 SPDX-License-Identifier: Apache-2.0
 -->
 
+<h2>Upcoming events</h2>
+
+<p>
+    Nothing scheduled right now.
+    <a href="/#join-our-group">Join our mailing list</a> to be notified of new events!
+</p>
+
+<h2>Past events</h2>
+
+<div class="event">
+    <div class="event__body">
+        <div class="event__image">
+        </div>
+        <div class="event__main">
+            <h2>Free Time</h2>
+            <div class="event__coords">
+                <div>
+                    <span class="prelude">Time</span> 19 Mar 2026, 16:00
+                </div>
+                <div>
+                    <span class="prelude">Place</span> DSB 7.01, University of Edinburgh
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="event__desc">
+        <p>
+            We will be discussing Adorno’s (mercifully short and immensely readable) essay “Free Time”.
+        </p>
+        <p>
+            While we are questioning traditional approaches to work, we imagine this being a bit different to your usual
+            reading group discussion! Rather than rigorously analytically scrutinising the text, we’d like to use it as
+            a jumping off point to think about and share our own experiences and reflections on the subjugation of free
+            time and its impact on our lives.
+        </p>
+        <p>
+            Read the essay, bring your beautiful, messy, unpolished thoughts, and let’s see how much we can subvert
+            ‘hobby ideology’ together!
+        </p>
+        <p>
+            Finally, since there is no reason our work should lack the qualities of leisure, there will be plentiful
+            vegan baked goods from the good folks at 101 Bakery.
+        </p>
+        </p>
+    </div>
+</div>
+
 <div class="event">
     <div class="event__body">
         <div class="event__image">
@@ -17,7 +64,7 @@ SPDX-License-Identifier: Apache-2.0
             <h2>Right-Wing Women's Bad Faith and Ours</h2>
             <div class="event__coords">
                 <div>
-                    <span class="prelude">Time</span> 6 November 2025, 15:00–16:00
+                    <span class="prelude">Time</span> 6 Nov 2025, 15:00–16:00
                 </div>
                 <div>
                     <span class="prelude">Place</span> DSB 7.01, University of Edinburgh
@@ -46,31 +93,6 @@ SPDX-License-Identifier: Apache-2.0
             own suggestions for how to avoid the pitfalls of bad faith on the Right and the Left, and her vision of the
             role of right-wing women in feminist politics.
         </p>
-    </div>
-</div>
-
-<div class="event">
-    <div class="event__body">
-        <div class="event__image">
-            <img width="100" height="100" src="/images/vlaranda.webp" alt="A portrait of Vlad and Miranda">
-        </div>
-        <div class="event__main">
-            <h2>Intro to the Ideology Research Group</h2>
-            <div class="event__coords">
-                <div>
-                    <span class="prelude">Time</span> TBD
-                </div>
-                <div>
-                    <span class="prelude">Place</span> DSB 7.01, University of Edinburgh
-                </div>
-                <div>
-                    <span class="prelude">Speakers</span>
-                    <a href="https://vlad.website">Vlad-Stefan Harbuz</a>
-                    and
-                    <a href="https://mirandaheath.website">Miranda Heath</a>
-                </div>
-            </div>
-        </div>
     </div>
 </div>
 
