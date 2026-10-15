@@ -4,7 +4,7 @@ date: 2025-01-01T00:00:00+00:00
 draft: false
 ---
 <!--
-© 2025 Vlad-Stefan Harbuz
+© 2025 Vlad Miricioiu
 SPDX-License-Identifier: Apache-2.0
 -->
 

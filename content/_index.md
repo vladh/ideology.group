@@ -4,7 +4,7 @@ date: 2025-01-01T00:00:00+00:00
 draft: false
 ---
 <!--
-© 2025 Vlad-Stefan Harbuz
+© 2025 Vlad Miricioiu
 SPDX-License-Identifier: Apache-2.0
 -->
 
@@ -144,7 +144,7 @@ ideology need to be internally coherent?
     <div class="pic-and-name">
         <img width="100" height="100" src="/images/vlad-caves.webp" alt="A portrait of Vlad">
         <h2>
-            <a href="https://vlad.website" target="_blank">Vlad-Stefan Harbuz</a>
+            <a href="https://vlad.website" target="_blank">Vlad Miricioiu</a>
             <small>PhD researcher, Philosophy, University of Edinburgh</small>
         </h2>
     </div>
